@@ -3,3 +3,5 @@ LPU prac
 hello
 world
 kaise ho!
+just do it
+
